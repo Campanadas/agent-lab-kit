@@ -1,0 +1,16 @@
+{
+  "ledger": "FINDINGS.md",
+  "entry_docs": {
+    "CLAUDE.md": {"max_bytes": 6000},
+    "HANDOFF.md": {"max_bytes": 8192},
+    "ROADMAP.md": {"max_words": 1200},
+    "KNOWLEDGE/README.md": {"max_bytes": 12000}
+  },
+  "current_docs": ["HANDOFF.md", "ROADMAP.md"],
+  "stale_lag": 30,
+  "table_docs": ["ROADMAP.md"],
+  "max_cell_chars": 1000,
+  "knowledge_dir": "KNOWLEDGE",
+  "knowledge_max_bytes": 40000,
+  "prereg_marker": "(?i)\\b(predictions?|stated before the run|pre-?registered)\\b"
+}
