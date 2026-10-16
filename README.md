@@ -103,4 +103,4 @@ written from a short questionnaire, and custom skills for your workflow. Write t
 
 ## Licence
 
-Free to use in any of your projects, personal or commercial; see `LICENSE.md`.
+MIT; see `LICENSE.md`.

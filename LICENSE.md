@@ -1,16 +1,21 @@
-# Agent Lab Kit licence
+MIT License
 
-Copyright (c) 2026 campanadas. All rights reserved except as granted below.
+Copyright (c) 2026 Campanadas
 
-**You may**
-- use the kit in any number of your own projects, personal or commercial, for yourself or your organisation;
-- modify the tool, templates and skills for your projects;
-- keep the copies the kit places inside your projects (`tools/labkit.py`, the templates, `.claude/` files), including in
-  repositories you share or publish, as part of those projects.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**You may not**
-- resell, sublicense or redistribute the kit itself, or a substantially similar package of it, as a product, template pack,
-  course material or download, paid or free.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-**No warranty.** The kit is provided "as is", without warranty of any kind. The author is not liable for any claim, damage or
-loss arising from its use.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
