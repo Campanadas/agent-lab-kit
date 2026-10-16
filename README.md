@@ -99,7 +99,7 @@ expect before you run it", which is useful anywhere an agent runs experiments.
 ## Want it set up for you?
 
 I set the kit up on existing projects: your notes and results turned into a ledger and knowledge topics, the entry documents
-written from a short questionnaire, and custom skills for your workflow. Write to the address on my GitHub profile.
+written from a short questionnaire, and custom skills for your workflow. Write to campanadas.chames@gmail.com.
 
 ## Licence
 
